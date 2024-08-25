@@ -1,5 +1,3 @@
-
-```markdown
 # Challenge Part 1: Delete User Functionality
 
 ## Overview
@@ -46,7 +44,7 @@ router.post(
 );
 
 module.exports = router;
-```
+
 
 ### Frontend Implementation
 
